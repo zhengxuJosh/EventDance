@@ -8,6 +8,7 @@ Object Recognition [pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Z
 EventDance++: Language-guided Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition [pdf]()
 
 ## Update
+[09/2024], codes for EventDance++ are in progress.
 [07/2024], codes for evaluation are released.
 
 ## Environments
